@@ -35,4 +35,5 @@
     dados/datatran2025_tratada.csv       # Base depois da limpeza
 ├── analise_acidentes_prf_ma_2025.ipynb  # Notebook completo executado e comentado
 └── README.md                            # Resumo do projeto e conclusões
+    requirements.txt                     #bibliotecas necessárias para rodar o notebook
 ```
