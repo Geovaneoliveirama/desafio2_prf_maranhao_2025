@@ -31,8 +31,8 @@
 
 ## 4. Estrutura do Repositório
 ```text
-├── dados/
-│   └── datatran2025_Tratada.csv         # Base original da PRF sem alterações
+├── dados/datatran2025_original.csv      # Base original da PRF sem alterações
+    dados/datatran2025_tratada.csv       # Base depois da limpeza
 ├── analise_acidentes_prf_ma_2025.ipynb  # Notebook completo executado e comentado
 └── README.md                            # Resumo do projeto e conclusões
 ```
