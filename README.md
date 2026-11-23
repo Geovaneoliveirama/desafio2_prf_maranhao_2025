@@ -38,10 +38,10 @@
     requirements.txt                     # bibliotecas necessárias para rodar o notebook
 ```
 
-Como rodar
-Só para ver
+**Como rodar**
+**Só para ver**
 
-Clique em desafio02_exemplo_delivery.ipynb aqui no GitHub. O notebook aparece com todas as tabelas e gráficos, sem instalar nada.
+Clique em desafio2_prf_maranhao_2025.ipynb aqui no GitHub. O notebook aparece com todas as tabelas e gráficos, sem instalar nada.
 No seu computador
 
 Você precisa do Python 3.10 ou mais novo.
