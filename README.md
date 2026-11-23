@@ -8,7 +8,7 @@
 
 ## 1. Base de Dados Utilizada
 * **Dataset:** Acidentes 2025 — Agrupados por Ocorrência (Dados Abertos da Polícia Rodoviária Federal - PRF).
-* **Arquivo original:** `dados/datatran2025_Tratada.csv` (mantido sem alterações).
+* **Arquivo original:** `dados/datatran2025_original.csv` (mantido sem alterações).
 * **Recorte investigado:** Ocorrências registradas no estado do **Maranhão (`UF = MA`)** entre 01/01/2025 e 31/12/2025 (**1.262 registros** e **30 colunas**).
 
 ---
