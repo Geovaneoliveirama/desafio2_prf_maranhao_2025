@@ -1,8 +1,7 @@
 # desafio2_prf_maranhao_2025
-Acidentes nas Rodovias Federais do Maranhão (PRF 2025)
-# Investigue uma Pergunta com Python — Acidentes PRF no Maranhão (2025)
+**Acidentes nas Rodovias Federais do Maranhão (PRF 2025)**
 
-## Integrantes da Equipe
+## Integrante
 * **Geovane de Oliveira da Costa**
 
 ---
