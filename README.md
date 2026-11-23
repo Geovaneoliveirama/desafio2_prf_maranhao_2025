@@ -31,9 +31,40 @@
 
 ## 4. Estrutura do Repositório
 ```text
-├── dados/datatran2025_original.csv      # Base original da PRF sem alterações
-    dados/datatran2025_tratada.csv       # Base depois da limpeza
-├── analise_acidentes_prf_ma_2025.ipynb  # Notebook completo executado e comentado
-└── README.md                            # Resumo do projeto e conclusões
-    requirements.txt                     #bibliotecas necessárias para rodar o notebook
+├── dados/datatran2025_original.csv      # base original da PRF sem alterações
+    dados/datatran2025_tratada.csv       # base depois da limpeza
+├── analise_acidentes_prf_ma_2025.ipynb  # notebook completo executado e comentado
+└── README.md                            # resumo do projeto e conclusões
+    requirements.txt                     # bibliotecas necessárias para rodar o notebook
 ```
+
+Como rodar
+Só para ver
+
+Clique em desafio02_exemplo_delivery.ipynb aqui no GitHub. O notebook aparece com todas as tabelas e gráficos, sem instalar nada.
+No seu computador
+
+Você precisa do Python 3.10 ou mais novo.
+
+    Baixe o repositório: botão Code → Download ZIP (e descompacte), ou:
+
+    git clone https://github.com/Trilhas-Inova/exemplo_desafio2_cd.git
+
+    Abra o terminal dentro da pasta do projeto e instale as bibliotecas:
+
+    pip install -r requirements.txt
+
+    Abra o Jupyter:
+
+    python -m jupyter lab
+
+    No navegador, clique em desafio02_exemplo_delivery.ipynb e use Run → Run All Cells.
+
+    O notebook precisa estar na mesma pasta que a pasta dados/. Se mover o arquivo .ipynb sozinho, ele não encontra os dados.
+
+No Google Colab (sem instalar nada)
+
+    Clique no botão Abrir no Colab no topo desta página.
+    No Colab, use Ambiente de execução → Executar tudo.
+
+O notebook baixa os dados sozinho deste repositório, então não é preciso enviar nenhum arquivo.
