@@ -38,33 +38,35 @@
     requirements.txt                     # bibliotecas necessárias para rodar o notebook
 ```
 
-**Como rodar**
-**Só para ver**
+## Como rodar
 
-#Clique em desafio2_prf_maranhao_2025.ipynb aqui no GitHub. O notebook aparece com todas as tabelas e gráficos, sem instalar nada.
+### Só para ver
+Clique em `desafio02_exemplo_delivery.ipynb` aqui no GitHub. O notebook aparece com todas as tabelas e gráficos, sem instalar nada.
 
-#No seu computador
+### No seu computador
+Você precisa do [Python](https://www.python.org/downloads/) 3.10 ou mais novo.
 
-Você precisa do Python 3.10 ou mais novo.
+1. Baixe o repositório: botão **Code → Download ZIP** (e descompacte), ou:
+   ```
+   git clone https://github.com/Trilhas-Inova/exemplo_desafio2_cd.git
+   ```
+2. Abra o terminal **dentro da pasta do projeto** e instale as bibliotecas:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Abra o Jupyter:
+   ```
+   python -m jupyter lab
+   ```
+4. No navegador, clique em `desafio02_exemplo_delivery.ipynb` e use **Run → Run All Cells**.
 
-    Baixe o repositório: botão Code → Download ZIP (e descompacte), ou:
+> O notebook precisa estar na mesma pasta que a pasta `dados/`. Se mover o arquivo `.ipynb` sozinho, ele não encontra os dados.
 
-    git clone https://github.com/Trilhas-Inova/exemplo_desafio2_cd.git
+### No Google Colab (sem instalar nada)
+1. Clique no botão **Abrir no Colab** no topo desta página.
+2. No Colab, use **Ambiente de execução → Executar tudo**.
 
-    Abra o terminal dentro da pasta do projeto e instale as bibliotecas:
-
-    pip install -r requirements.txt
-
-    Abra o Jupyter:
-
-    python -m jupyter lab
-
-    No navegador, clique em desafio02_exemplo_delivery.ipynb e use Run → Run All Cells.
-
-    O notebook precisa estar na mesma pasta que a pasta dados/. Se mover o arquivo .ipynb sozinho, ele não encontra os dados.
-
-No Google Colab (sem instalar nada)
-
+O notebook baixa os dados sozinho deste repositório, então não é preciso enviar nenhum arquivo.
     Clique no botão Abrir no Colab no topo desta página.
     No Colab, use Ambiente de execução → Executar tudo.
 
