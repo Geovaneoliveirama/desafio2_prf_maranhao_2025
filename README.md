@@ -30,9 +30,9 @@
 ---
 
 ## 4. Estrutura do Repositório
-- `desafio02_exemplo_delivery.ipynb`: notebook com a análise completa
-- `dados/pedidos_delivery_original.csv`: base original, sem alterações
-- `dados/pedidos_delivery_tratado.csv`: base depois da limpeza
+- `desafio2_prf_maranhao_2025.ipynb`: notebook com a análise completa
+- `dados/datatran2025_original.csv`: base original, sem alterações
+- `dados/datatran2025_tratado.csv`: base depois da limpeza
 - `requirements.txt`: bibliotecas necessárias para rodar o notebook
 
 ## Como rodar
