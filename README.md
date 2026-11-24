@@ -45,7 +45,7 @@ Você precisa do [Python](https://www.python.org/downloads/) 3.10 ou mais novo.
 
 1. Baixe o repositório: botão **Code → Download ZIP** (e descompacte), ou:
    ```
-   git clone https://github.com/Trilhas-Inova/exemplo_desafio2_cd.git
+   git clone https://github.com/Geovaneoliveirama/desafio2_prf_maranhao_2025.git
    ```
 2. Abra o terminal **dentro da pasta do projeto** e instale as bibliotecas:
    ```
@@ -55,7 +55,7 @@ Você precisa do [Python](https://www.python.org/downloads/) 3.10 ou mais novo.
    ```
    python -m jupyter lab
    ```
-4. No navegador, clique em `desafio02_exemplo_delivery.ipynb` e use **Run → Run All Cells**.
+4. No navegador, clique em `desafio02_prf_maranhao_2025.ipynb` e use **Run → Run All Cells**.
 
 > O notebook precisa estar na mesma pasta que a pasta `dados/`. Se mover o arquivo `.ipynb` sozinho, ele não encontra os dados.
 
