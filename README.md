@@ -30,13 +30,10 @@
 ---
 
 ## 4. Estrutura do Repositório
-```text
-├── dados/datatran2025_original.csv      # base original da PRF sem alterações
-    dados/datatran2025_tratada.csv       # base depois da limpeza
-├── analise_acidentes_prf_ma_2025.ipynb  # notebook completo executado e comentado
-└── README.md                            # resumo do projeto e conclusões
-    requirements.txt                     # bibliotecas necessárias para rodar o notebook
-```
+- `desafio02_exemplo_delivery.ipynb`: notebook com a análise completa
+- `dados/pedidos_delivery_original.csv`: base original, sem alterações
+- `dados/pedidos_delivery_tratado.csv`: base depois da limpeza
+- `requirements.txt`: bibliotecas necessárias para rodar o notebook
 
 ## Como rodar
 
