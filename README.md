@@ -41,8 +41,9 @@
 **Como rodar**
 **Só para ver**
 
-Clique em desafio2_prf_maranhao_2025.ipynb aqui no GitHub. O notebook aparece com todas as tabelas e gráficos, sem instalar nada.
-No seu computador
+#Clique em desafio2_prf_maranhao_2025.ipynb aqui no GitHub. O notebook aparece com todas as tabelas e gráficos, sem instalar nada.
+
+#No seu computador
 
 Você precisa do Python 3.10 ou mais novo.
 
